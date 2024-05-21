@@ -1,4 +1,4 @@
---Cleaning DAta in SQL Queries
+--Cleaning Data in SQL Queries
 select *
 from NashvilleHousing
 
